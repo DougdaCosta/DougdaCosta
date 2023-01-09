@@ -7,12 +7,12 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/dougdacosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougdacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougdacosta&layout=compact&langs_count=7&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dougdacosta&repo=OracleNextEducation-T4&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dougdacosta&repo=Challenger---Decodificador-de-Texto&theme=dark"/>
+  <img height="180em" weight="100em" src="https://github-readme-stats.vercel.app/api?username=dougdacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" weight="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougdacosta&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" weight="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=dougdacosta&repo=OracleNextEducation-T4&theme=dark"/>
+  <img height="150em" weight="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=dougdacosta&repo=Challenger---Decodificador-de-Texto&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
